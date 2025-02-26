@@ -1,4 +1,4 @@
-name: Build LLVM18 Toolchain for Apple Silicon Mac
+name: Build LLVM17 Toolchain for Apple Silicon Mac
 
 on:
   workflow_dispatch:
